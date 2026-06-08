@@ -1,0 +1,5 @@
+Libraries Required:
+pandas
+numpy
+matplotlib
+seaborn
