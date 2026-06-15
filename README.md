@@ -1,14 +1,19 @@
 # Thiranex Data Science Internship
 
-This repository contains projects completed during my Data Science Internship at Thiranex.
+This repository contains projects completed during my Data Science Internship at Thiranex. The internship focuses on applying data science concepts to solve real-world problems through data analysis, machine learning, visualization, and predictive modeling.
 
-The internship focuses on developing practical skills in:
+---
 
-* Data Cleaning
+## Internship Overview
+
+During this internship, I am developing practical experience in:
+
+* Data Cleaning and Preprocessing
 * Data Visualization
 * Exploratory Data Analysis (EDA)
 * Machine Learning
-* Real-World Data Science Projects
+* Predictive Modeling
+* Real-World Data Science Applications
 
 ---
 
@@ -16,9 +21,9 @@ The internship focuses on developing practical skills in:
 
 ### Task 1: Data Cleaning & Visualization Project
 
-Status: Completed ✅
+**Status:** Completed ✅
 
-Project Highlights:
+#### Project Highlights
 
 * Data preprocessing using Pandas
 * Missing value analysis
@@ -29,7 +34,7 @@ Project Highlights:
 * Dashboard creation
 * Insight generation
 
-Key Outputs:
+#### Key Outputs
 
 * Cleaned Dataset
 * Correlation Analysis
@@ -37,7 +42,7 @@ Key Outputs:
 * Test Preparation Impact Analysis
 * Student Performance Dashboard
 
-Location:
+#### Project Location
 
 ```text
 /Data-cleaning-project
@@ -47,48 +52,80 @@ Location:
 
 ### Task 2: Predictive Modeling Using Machine Learning
 
-Status: In Progress 🔄
+**Status:** Completed ✅
 
-Planned Concepts:
+#### Project Overview
+
+Built a House Price Prediction model using Linear Regression and the Ames Housing Dataset from Kaggle. The model predicts residential property prices based on multiple housing features.
+
+#### Features Used
+
+* GrLivArea
+* BedroomAbvGr
+* FullBath
+* GarageCars
+* GarageArea
+* OverallQual
+* YearBuilt
+* TotalBsmtSF
+
+#### Machine Learning Workflow
 
 * Data preprocessing
-* Feature engineering
+* Feature selection
 * Train-Test Split
-* Model Training
+* Linear Regression Model Training
 * Model Evaluation
-* Prediction Analysis
+* Future Price Prediction
+* Model Saving using Pickle
 
-Algorithms:
+#### Evaluation Metrics
 
-* Linear Regression
-* Decision Tree
-* Random Forest
+* Mean Absolute Error (MAE)
+* Mean Squared Error (MSE)
+* Root Mean Squared Error (RMSE)
+* Mean Absolute Percentage Error (MAPE)
+* R² Score
+
+#### Visualizations
+
+* Actual vs Predicted House Prices
+* Predicted Price Comparison
+* Residual Analysis
+
+#### Project Location
+
+```text
+/Predictive-Modeling-Using-Machine-Learning
+```
 
 ---
 
 ### Task 3: Exploratory Data Analysis (EDA)
 
-Status: Pending ⏳
+**Status:** Pending ⏳
 
-Planned Activities:
+#### Planned Activities
 
-* Statistical analysis
-* Correlation studies
-* Pattern identification
-* Trend discovery
-* Data storytelling
+* Statistical Analysis
+* Correlation Studies
+* Pattern Discovery
+* Trend Analysis
+* Data Storytelling
+* Business Insights Generation
 
 ---
 
 ### Task 4: Real-World Data Science Project
 
-Status: Pending ⏳
+**Status:** Pending ⏳
 
-Planned Domains:
+#### Planned Domains
 
-* Finance
-* Healthcare
+* Finance Analytics
+* Healthcare Analytics
 * Retail Analytics
+* Customer Behavior Analysis
 
 ---
 
@@ -101,27 +138,72 @@ Planned Domains:
 * Seaborn
 * Scikit-Learn
 * Jupyter Notebook
-* GitHub
+* Git & GitHub
+
+---
+
+## Repository Structure
+
+```text
+THIRANEX/
+│
+├── Data-cleaning-project/
+│
+├── Predictive-Modeling-Using-Machine-Learning/
+│
+├── Task-3-EDA/
+│
+├── Task-4-Real-World-Project/
+│
+└── README.md
+```
+
+---
+
+## Learning Outcomes
+
+Through this internship, I am gaining hands-on experience in:
+
+* Data preprocessing and cleaning
+* Data visualization techniques
+* Exploratory Data Analysis
+* Machine Learning model development
+* Model evaluation and interpretation
+* Real-world problem solving using data
 
 ---
 
 ## About Me
 
-Dev Karan Singh
+### Dev Karan Singh
 
 Computer Science Engineering Student
 
-Interested in:
+Areas of Interest:
 
 * Data Science
 * Machine Learning
 * Artificial Intelligence
 * Software Development
+* Analytics
 
 ---
 
 ## Internship Organization
 
-Thiranex
+### Thiranex
 
-Skill Development & Future Tech
+Skill Development & Future Technology Programs
+
+---
+
+### Current Progress
+
+| Task                                     | Status      |
+| ---------------------------------------- | ----------- |
+| Task 1 - Data Cleaning & Visualization   | ✅ Completed |
+| Task 2 - Predictive Modeling             | ✅ Completed |
+| Task 3 - Exploratory Data Analysis       | ⏳ Pending   |
+| Task 4 - Real-World Data Science Project | ⏳ Pending   |
+
+**Overall Progress: 50% Completed**
