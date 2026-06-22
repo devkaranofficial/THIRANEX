@@ -6,7 +6,7 @@ import seaborn as sns
 # Load Dataset
 # ----------------------------------------
 
-df = pd.read_csv("netflix_titles.csv/netflix_titles.csv")
+df = pd.read_csv("netflix_titles.csv")
 
 print("=" * 60)
 print("NETFLIX EDA PROJECT")
